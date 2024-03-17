@@ -1,1 +1,7 @@
-# ex_pratico_1
+# Exercício Prático 1
+
+Aluno: Vinicius de Carvalho Baggion RA: 2052458
+
+```bash
+npm start
+```
